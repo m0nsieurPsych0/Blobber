@@ -2,7 +2,7 @@ package Game;
 
 import javax.swing.*;
 
-public class Player extends JLabel {
+public class Player extends JLabel { //player extends Jlabel pour son score
 	private final int MAX_HP = 50;
 	private String name;
 	private int currentHp, score;
@@ -30,6 +30,10 @@ public class Player extends JLabel {
 	}
 	
 	public void removeHp(int hp) { currentHp-=hp;}
+
+	public void showScore(int score){}
+
+	public void showHealth(){}
 }
 
 

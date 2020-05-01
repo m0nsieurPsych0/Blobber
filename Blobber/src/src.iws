@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d169ba-7e3a-45d4-8c07-c8000b420cd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blob/PoisonBlob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Popper/MouseEnterPopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Blobber_git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../scores.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/ABlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/ABlob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/Blob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/Blob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/BlobFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/BlobFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/BonusBlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/BonusBlob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cursor/BaseCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursor/BaseCursor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cursor/CursorBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursor/CursorBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cursor/CursorMalus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursor/CursorMalus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Popper/SingleClickPopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Popper/SingleClickPopper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI/AppWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI/AppWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.iws" beforeDir="false" afterPath="$PROJECT_DIR$/src.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
