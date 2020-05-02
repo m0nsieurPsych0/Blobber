@@ -12,6 +12,7 @@ public abstract class ABlob extends JLabel implements LoopObserver {
 	protected int ticksCounter;
 	protected int damage;
 	protected int hp;
+	protected int maxHp;
 	protected int score;
 	protected Game game;
 	protected Color color;
@@ -21,6 +22,7 @@ public abstract class ABlob extends JLabel implements LoopObserver {
 		this.ticksCounter = ticksCounter;
 		this.damage = damage;
 		this.hp = hp;
+		this.maxHp = this.hp;
 		this.score = score;
 		this.game = game;
 		GameLoop.getInstance().registerObserver(this);
@@ -42,6 +44,7 @@ public abstract class ABlob extends JLabel implements LoopObserver {
 
 	protected void drawHealthBar(Graphics g) {
 		g.setColor(Color.BLUE);
+		g.drawRect(0, 0, maxHp * 10, 2);
 		g.fillRect(0, 0, hp * 10, 2);
 	}
 

@@ -9,6 +9,7 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import Blob.ABlob;
+import Game.Player;
 
 public class GameFrame extends JFrame {
 
@@ -39,5 +40,9 @@ public class GameFrame extends JFrame {
 			if (c[i] instanceof ABlob)
 				this.remove(c[i]);
 		}
+	}
+	public void addPlayerHealthBar(Player p){
+		getContentPane().add(p);
+		revalidate();
 	}
 }

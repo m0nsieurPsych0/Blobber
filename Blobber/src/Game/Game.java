@@ -56,6 +56,7 @@ public class Game implements LoopObserver {
 	@Override
 	public void tick() {
 		System.out.println(player.getHP());
+		gameFrame.addPlayerHealthBar(player);
 		if (player.getHP() <0) {
 			endGame();
 		}

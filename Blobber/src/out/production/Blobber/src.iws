@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d169ba-7e3a-45d4-8c07-c8000b420cd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blob/PoisonBlob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Popper/MouseEnterPopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Blobber_git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../scores.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/ABlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/ABlob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/Blob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/Blob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/BlobFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/BlobFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blob/BonusBlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/BonusBlob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cursor/BaseCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursor/BaseCursor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cursor/CursorBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursor/CursorBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cursor/CursorMalus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursor/CursorMalus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Popper/SingleClickPopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Popper/SingleClickPopper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI/AppWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI/AppWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.iws" beforeDir="false" afterPath="$PROJECT_DIR$/src.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
@@ -70,21 +55,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="3108" height="449" key="GridCell.Tab.0.bottom" timestamp="1587925643831">
+    <state width="3108" height="449" key="GridCell.Tab.0.bottom" timestamp="1588386036230">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
+    <state width="3108" height="449" key="GridCell.Tab.0.bottom/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036230" />
     <state width="3108" height="449" key="GridCell.Tab.0.bottom/0.0.3200.1800@0.0.3200.1800" timestamp="1587925643831" />
-    <state width="3108" height="449" key="GridCell.Tab.0.center" timestamp="1587925643830">
+    <state width="3108" height="449" key="GridCell.Tab.0.center" timestamp="1588386036230">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
+    <state width="3108" height="449" key="GridCell.Tab.0.center/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036230" />
     <state width="3108" height="449" key="GridCell.Tab.0.center/0.0.3200.1800@0.0.3200.1800" timestamp="1587925643830" />
-    <state width="3108" height="449" key="GridCell.Tab.0.left" timestamp="1587925643830">
+    <state width="3108" height="449" key="GridCell.Tab.0.left" timestamp="1588386036229">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
+    <state width="3108" height="449" key="GridCell.Tab.0.left/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036229" />
     <state width="3108" height="449" key="GridCell.Tab.0.left/0.0.3200.1800@0.0.3200.1800" timestamp="1587925643830" />
-    <state width="3108" height="449" key="GridCell.Tab.0.right" timestamp="1587925643830">
+    <state width="3108" height="449" key="GridCell.Tab.0.right" timestamp="1588386036230">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
+    <state width="3108" height="449" key="GridCell.Tab.0.right/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036230" />
     <state width="3108" height="449" key="GridCell.Tab.0.right/0.0.3200.1800@0.0.3200.1800" timestamp="1587925643830" />
     <state width="3108" height="417" key="GridCell.Tab.1.bottom" timestamp="1587921449814">
       <screen x="0" y="0" width="3200" height="1800" />
