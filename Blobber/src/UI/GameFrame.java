@@ -4,8 +4,7 @@ import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.EventQueue;
 
-import javax.swing.JFrame;
-import javax.swing.JPanel;
+import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
 import Blob.ABlob;
@@ -41,8 +40,10 @@ public class GameFrame extends JFrame {
 				this.remove(c[i]);
 		}
 	}
-	public void addPlayerHealthBar(Player p){
+	public void addPlayerStatus(Player p){
 		getContentPane().add(p);
 		revalidate();
 	}
+	
+
 }

@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d169ba-7e3a-45d4-8c07-c8000b420cd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Blob/ABlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blob/ABlob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursor/CursorBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursor/CursorBonus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Blobber/Cursor/CursorBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Blobber/Cursor/CursorBonus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Blobber/Game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Blobber/Game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Blobber/Game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Blobber/Game/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Blobber/UI/GameFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Blobber/UI/GameFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Blobber/scores.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Blobber/scores.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scores.ser" beforeDir="false" afterPath="$PROJECT_DIR$/scores.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src.iws" beforeDir="false" afterPath="$PROJECT_DIR$/src.iws" afterDir="false" />
     </list>
@@ -15,6 +20,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="2aedab60b902b3ff4f4c4f0ce1436d5c657d6444" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1b2ojXqxluDC9bakkbljagzYfZy" />
@@ -56,27 +66,41 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="3108" height="449" key="GridCell.Tab.0.bottom" timestamp="1588422138697">
+    <state x="963" y="24" width="1585" height="1764" key="DiffContextDialog" timestamp="1588501494368">
+      <screen x="0" y="0" width="3200" height="1800" />
+    </state>
+    <state x="963" y="24" width="1585" height="1764" key="DiffContextDialog/0.0.3200.1800@0.0.3200.1800" timestamp="1588501494368" />
+    <state width="3108" height="449" key="GridCell.Tab.0.bottom" timestamp="1588504302221">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
     <state width="3108" height="449" key="GridCell.Tab.0.bottom/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036230" />
-    <state width="3108" height="449" key="GridCell.Tab.0.bottom/0.0.3200.1800@0.0.3200.1800" timestamp="1588422138697" />
-    <state width="3108" height="449" key="GridCell.Tab.0.center" timestamp="1588422138695">
+    <state width="3108" height="449" key="GridCell.Tab.0.bottom/0.0.3200.1800@0.0.3200.1800" timestamp="1588504302221" />
+    <state width="3108" height="449" key="GridCell.Tab.0.center" timestamp="1588504302220">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
     <state width="3108" height="449" key="GridCell.Tab.0.center/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036230" />
-    <state width="3108" height="449" key="GridCell.Tab.0.center/0.0.3200.1800@0.0.3200.1800" timestamp="1588422138695" />
-    <state width="3108" height="449" key="GridCell.Tab.0.left" timestamp="1588422138693">
+    <state width="3108" height="449" key="GridCell.Tab.0.center/0.0.3200.1800@0.0.3200.1800" timestamp="1588504302220" />
+    <state width="3108" height="449" key="GridCell.Tab.0.left" timestamp="1588504302214">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
     <state width="3108" height="449" key="GridCell.Tab.0.left/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036229" />
-    <state width="3108" height="449" key="GridCell.Tab.0.left/0.0.3200.1800@0.0.3200.1800" timestamp="1588422138693" />
-    <state width="3108" height="449" key="GridCell.Tab.0.right" timestamp="1588422138696">
+    <state width="3108" height="449" key="GridCell.Tab.0.left/0.0.3200.1800@0.0.3200.1800" timestamp="1588504302214" />
+    <state width="3108" height="449" key="GridCell.Tab.0.right" timestamp="1588504302220">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>
     <state width="3108" height="449" key="GridCell.Tab.0.right/0.0.3200.1800/3200.0.1680.1050@0.0.3200.1800" timestamp="1588386036230" />
-    <state width="3108" height="449" key="GridCell.Tab.0.right/0.0.3200.1800@0.0.3200.1800" timestamp="1588422138696" />
+    <state width="3108" height="449" key="GridCell.Tab.0.right/0.0.3200.1800@0.0.3200.1800" timestamp="1588504302220" />
     <state width="3108" height="417" key="GridCell.Tab.1.bottom" timestamp="1587921449814">
       <screen x="0" y="0" width="3200" height="1800" />
     </state>

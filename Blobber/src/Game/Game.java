@@ -1,16 +1,12 @@
 package Game;
 
-import java.util.Random;
-
 import Blob.ABlob;
-import Blob.Blob;
 import Blob.BlobFactory;
 import Cursor.ACursorDecorator;
 import Cursor.BaseCursor;
 import Cursor.ICursor;
 import HighScore.HighScoresManager;
 import HighScore.Score;
-import Popper.SingleClickPopper;
 import UI.*;
 
 public class Game implements LoopObserver {
@@ -55,8 +51,9 @@ public class Game implements LoopObserver {
 
 	@Override
 	public void tick() {
-		System.out.println(player.getHP());
-		gameFrame.addPlayerHealthBar(player);
+
+		gameFrame.addPlayerStatus(player); //Player Ui
+
 		if (player.getHP() <0) {
 			endGame();
 		}
@@ -71,6 +68,7 @@ public class Game implements LoopObserver {
 			ticksBeforeNewBlobCounter -= 1;
 			ticksBeforeNewBlob = ticksBeforeNewBlobCounter;
 		}
+
 	}
 
 	public void removeBlobFromGame(ABlob b) {
